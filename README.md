@@ -10,7 +10,7 @@ TNT ENTERTAINMENT inc is not responsible for any kind of loss or damage!
 
 USEGE. 
 
-Download the archive from releases: 
+Download the archive from releases: https://github.com/Max-RM/7zFME_Patcher/releases/download/000/7zFME_Patcher_000.zip
 and unzip it. Then run the Enable_Patch.bat file and wait (It will write in the console that some file could not be found, ignore it), after the script completes, your container may shut down, just run it again. 
 If the shutdown did not happen, then restart it manually.
 
