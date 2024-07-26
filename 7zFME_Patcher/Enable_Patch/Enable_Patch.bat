@@ -1,5 +1,5 @@
 @echo off
-rem 7zFME_Patcher_000 by MaxRM
+rem 7zFME_Patcher v000 by MaxRM. Was created on 26.07.2024
 rem kill explorer task
 taskkill /F /IM TFM.exe
 
