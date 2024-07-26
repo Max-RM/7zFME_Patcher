@@ -22,4 +22,9 @@ and there is a wfm.exe file in Winlator in C:\Windows\
 The Bat script kills all tasks with the name TFM.exe and wfm.exe, then takes 7zFM.exe files renamed to the necessary names from its directory and copies them to necessary paths, replacing the standard file manager.
 (Which means if your container has file manager with another name, this script will not work for you, but you can use this manual to repeat it manually).
 
+Improvements and support
+
+If you have an idea how to improve the script or you have a problem, then you can write here:
+https://github.com/Max-RM/7zFME_Patcher/issues
+
 26.07.2024
